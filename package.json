@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DTDTaraz/nodejs-2021120103#readme",
   "devDependencies": {
+    "@types/node": "^16.11.11",
     "eslint": "^7.32.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.3",
