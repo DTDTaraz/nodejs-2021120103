@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-2021120103",
+  "version": "1.0.0",
+  "description": "Training 360 Node.js tanfolyam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DTDTaraz/nodejs-2021120103.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DTDTaraz/nodejs-2021120103/issues"
+  },
+  "homepage": "https://github.com/DTDTaraz/nodejs-2021120103#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
+  }
+}
